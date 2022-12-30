@@ -10,4 +10,3 @@ print('g')
 
 print("rose")
 print("my id 41810256")
-print("my name rose")

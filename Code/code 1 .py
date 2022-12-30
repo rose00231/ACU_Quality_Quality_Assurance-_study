@@ -10,3 +10,4 @@ print('g')
 
 print("rose")
 print("my height is 160")
+print("my age is 21")
